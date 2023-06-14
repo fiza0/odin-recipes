@@ -1,0 +1,21 @@
+*{
+    font-family: serif;
+}
+.heading{
+    background-color: peachpuff;
+    color: rgb(7, 80, 80);
+    font-size: 50px;
+}
+.intro {
+    background-color: bisque;
+    font-size: 20px;
+    text-align: left;
+    font-weight: 300;
+}
+h2 {
+    background-color:rgb(19, 209, 223) ;
+    text-align: center;
+}
+.subh~li{
+    background-color: rgb(190, 139, 27);
+}
